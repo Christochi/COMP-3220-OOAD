@@ -1,0 +1,19 @@
+-Reverse engineering means the generation of diagrams from code
+
+-I used easyUML. It is a Netbeans IDE Plugin. 
+
+-I was able using this tool to reverse engineer the generated java files back to UML 
+ class diagram
+
+-Initially when forward engineered my class diagram to code, I got some error in the 
+ code but like any good IDE, Netbeans made some recommendation. I implemented the
+ recommendations in order to clear the errors in the code. 
+
+-I reversed engineered to get this new UML Class Diagram
+
+-The first class diagram is so different form the second class diagram. The 2 class diagrams
+ don't look alike. There are more relationships among classes. 
+
+  Game has a composition relationship with Player
+  Board has a composition relationship with Player and Game
+  Player, HumanPlayer and AI Player has a dependence relationship with Board

@@ -1,0 +1,52 @@
+Q1- Why did software developers steer away from the Waterfall lifecycle? are we saying 
+that Agile is always better than waterfall or are there instances when Waterfall is better
+and should be used instead of Agile?
+
+Answer:
+----------
+Despite the fact that waterfall is slowly phasing out, it still has its usefulness depending on
+the conditions and situation. They are:
+- Waterfall is best suited for projects and teams that have a time frame for execution of each stage [1]
+- It is befitting for small teams and as well as, small projects with easy defined deliverables [2]. These small 
+  projects usually have predictable outcomes 
+- For projects whose goals have been defined since inception. These goals are unchanging and they don't have room
+  for client feedback
+- If your project needs a structure to explain how far the project has progressed and its current status, 
+  waterfall will suit this type of project. Whenever a stage has been completed, it means that the activities and
+  requirements have been accomplished [3]. Stakeholders would be interested in knowing the current status of the project
+
+Software developers and project managers have realized waterfall has pitfalls and they are porting to other methodologies
+like agile to improve timing, communication among teams and stakeholders, room for amendment and testing. 
+- Feedback from client can often be too late during the project cycle [1]. Going back to a previous stage to include a requirement
+  (client feedback) can be time consuming and incurs more cost
+- Waterfall pushes software testing towards the end of the development cycle [1]. This encourages codes that are disjointed,
+  poorly written and unmaintainable. A single error can cause a change which can leads to days. If frequent testing is required,
+  agile will be suitable. 
+- It is team focussed. It excludes client or end users (stakeholders). It focuses on helping teams move more efficiently through
+  the phases of the project [2]. Clients are stakeholders so they always want to be involved.
+
+In my opinon, one method isn't better than the other. Depending on the situation, one method will flourish more than the other.
+At times different methodologies should be combined.
+
+[1] "Waterfall Model: What Is It and When Should You Use IT?", Airbrake Blog. [Online]. Available: https://airbrake.io/blog/sdlc/waterfall-model. [Published 08-December-2016].
+[2] "The Pros and Cons of Waterfall Methodology", Lucidchart Blog. [Online]. Available: https://www.lucidchart.com/blog/pros-and-cons-of-waterfall-methodology. [Published 02-November-2017].
+[3] "Waterfall model probably the most costly mistake in the world", Value At Work. [Online]. Available: http://valueatwork.se/waterfall-model-probably-the-most-costly-mistake-in-the-world/?lang=en. [Published 26-September-2013].
+----------------------------------------------------------------------------------------
+
+Q2- If we do a search today for jobs related to software development, analysis or design. These are aspects in software engineering that 
+are critical for the software development industry. Search for a job posting on the Internet (e.g. monster.ca or dice.com or other job sites) 
+for positions in these fields and identify what tools/technologies/techniques the industry is asking for that relate to the methodologies we are studying? 
+e.g. look for things like: XP, Scrum, Agile, Waterfall, Analysis tools, Design Tools, UML, etc...
+
+Answer:
+------------
+I have job positions that require strong grounding and years of experience of using techniques like agile, XP, scrum. Some of the job titles are:
+Agile Coach, Scrum Master, Software Project Manager, Business Analyst, etc. The links are below:
+
+https://www.dice.com/jobs/detail/Agile-Coach-Systems-Technology-Group-Inc.-%28STG%29-Dearborn-MI-48120/10124418/5838289
+https://www.dice.com/jobs/detail/Scrum-Master-United-Shore-Financial-Services-Pontiac-MI-48340/RTX181347/4847
+https://www.indeed.ca/viewjob?jk=aee03d478747c852&q=XP%2C+Scrum%2C+Agile%2C+Waterfall%2C+Analysis+tools%2C+Design+Tools%2C+UML&l=Windsor%2C+ON&tk=1dbm58m7t5sst802&from=web&vjs=3
+https://www.procom.ca/app/Jobs/Description?id=27282&source=Monster
+
+
+ 

@@ -1,0 +1,6 @@
+-I used a NetBeans IDE Plugin called easyUML. 
+
+-I created a new project for the class files
+
+-Then I generated the class file from the TicTacToe UML Class Diagram to 
+ the project class files

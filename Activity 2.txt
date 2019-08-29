@@ -1,0 +1,78 @@
+Q1. Read the 4 Agile Manifesto values and the 12 principles behind the Agile Manifesto
+(See link in Resources), then review the "Artifacts of Inception" in Chapter 4 slide 8.
+Here you should see the connection how Inception artifacts are linked to the Agile values.
+Select one of the artifacts, and explain how it is important/relevant to meet each of the 
+Agile values.
+
+Answer:
+----------
+Every project before it is commenced should have a vision and business case. 
+It is important to note that a project without a vision is like a vehicle without a driver. 
+The vision should be aspirational and it should span one or two sentences stating the 
+ultimate reason for creating the product and the positive change the project would bring 
+about. 
+
+While a vision statement is important, a project without a business case is like swimming 
+against the strong ocean current. It is a cost-benefit analysis document. In practice, it is used to 
+track whether the ongoing development is likely to meet the business value outlined 
+(vision).
+
+I will describe the importance of some artifacts and how it is connected to the agile values:
+
+Responding To Change:  Business case is a dynamic document. It is not constant. 
+Every section of the business case can change. It has to be reviewed regularly and updated 
+as necessary. The key-stakeholders use this to track the project's viability. 
+It is the responsibility of the project manager and the owner of the business case 
+(chief stakeholder/sponsor) to regularly monitor those elements to determine if the project
+should be stopped or the scope of the project be reduced, or is worth investing more 
+resources to deliver the project.
+
+Individuals And Interactions:  After the vision and objectives have been declared,
+the business stakeholders and development team need to qualify the business value that is 
+expected from the project deliverables or product, in terms of timescale, cost estimate for
+developing the project, so that the key stakeholders can determine whether the development 
+is justified from a business point of view.
+
+Working Software: No business case means no target for project deliverables - other than 
+the meeting of technical specification. The project team might get over-engaged in technical
+details, losing sight of the goals of the project. There is likely to be disappointment 
+after the completion of the project, as the stakeholders are wondering why the project 
+(software) is not giving the great results they imagined because the project manager did not
+know what the expectations were.
+------------------------------------------------------------------------------------------
+
+Q2- In FURPS+ we learn what question categories to address when starting a new software product. 
+The intention is to identify as many high risks as possible early in the project before we proceed 
+further. For instance, if the product requires some technology that we do not possess 
+the cost to purchase, then the project cannot proceed. Another example is that if the 
+project requires some legal clearance that we do not have then we cannot proceed either.
+You are asked to describe the kind of questions you would ask in each category of FURPS+. 
+Specifically, limit your answer to any 4 categories, and only present 1 or 2 questions in 
+that selected category. Each is worth 1 point, total 4.
+
+Answer:
+--------
+To answer this question, I will use a case study of a developer, who wants to develop 
+an app for a client. This app fetches the lyrics of any song from a database when it is 
+played and displays the lyrics. This app is targeted mainly towards language learners.
+
+Functionality:
+------------
+will it support other languages?
+will it store lyrics on the device for offline use?
+
+Implementation:
+-----------------
+which hardware is being targeted?
+which mobile OS and version should the app run on?
+
+Supportability:
+--------------
+will it have an online support for bug fix and troubleshooting of software issues?
+will the app have subsequent upgrades and what is the allocated budget?
+
+Legal:
+--------
+will it be licensed or open source?
+will it be a paid or free app?
+
